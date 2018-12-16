@@ -1,1 +1,1 @@
-# Force-Euler-Diagram-Colored-Curves-
+# Force Euler Diagram (colored curves)
